@@ -20,3 +20,5 @@ The Philippines Quiz Game is capable of the following:
 ![Sample Output #2](https://github.com/AvB2002/philippines-quiz/blob/master/screenshots/2.PNG)
 
 ![Sample Output #2](https://github.com/AvB2002/philippines-quiz/blob/master/screenshots/3.PNG)
+
+![Sample Output #2](https://github.com/AvB2002/philippines-quiz/blob/master/screenshots/4.PNG)
