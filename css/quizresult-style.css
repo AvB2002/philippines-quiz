@@ -1,0 +1,265 @@
+
+      body{
+        background: #EEE8F7;
+      }
+
+      .purple{
+        background: #5E35B1;
+      }
+      .deep-purple{
+        background: #673AB7;
+      }
+
+      nav.purple a{
+        color: white !important;
+      }
+
+      .panel {
+        display:block;
+        height:128px;
+      }
+
+      div.score{
+        background: #5E35B1;
+        color: #ffffff;
+        height: 40px;
+        width: 95px;
+        font-size: 12px;
+        padding: 4px 5px;
+      }
+
+      .card{
+        border: 0;
+        margin-top: 1rem;
+      }
+
+      .card-header{
+        display: block;
+        background: #5E35B1;
+        width: 100%;
+        height: 5px;
+        padding: 0;
+        margin: 0;
+      }
+
+      .card-body{
+        font-size: 15px;
+      }
+
+      .freeBird {
+        margin-top:-110px;
+      }
+
+      .ph-image{
+        background: url(../images/philippines.jpg);
+        display: block;
+        width: 100%;
+        height: 140px;
+        background-position: center; 
+        background-repeat: no-repeat; 
+        background-size: 100%;
+      }
+
+      .btn{
+        font-size: 18px !important;
+      }
+
+      .btn-outline-light{
+        border: none;
+      }
+
+      .btn-outline-dark{
+        border: none;
+      }
+
+      .btn:focus {
+        outline: none;
+        box-shadow: none;
+      }
+
+
+    label.box {
+      display: flex;
+      margin-top: 10px;
+      padding: 10px 12px;
+      border-radius: 5px;
+      cursor: default;
+      border: 1px solid #ddd
+    }
+
+    .light-ripple {
+      background-position: center;
+      transition: background 0.8s;
+      background: transparent;
+      color: white;
+    }
+
+    .light-ripple:hover {
+      background: #5E35B1 radial-gradient(circle, transparent 1%, #5E35B1 1%) center/15000%;
+      color: white;
+    }
+
+    .light-ripple:active {
+      background-color: #ffffff;
+      opacity: 0.5;
+      background-size: 100%;
+      transition: background 0s;
+      color: white;
+    }
+
+
+    .dark-ripple {
+      background-position: center;
+      transition: background 0.8s;
+      background: transparent;
+      font-size: 14px;
+      font-weight: 400;
+      color: gray;
+    }
+
+    .dark-ripple:hover {
+      background: #ffffff radial-gradient(circle, transparent 1%, #ffffff 1%) center/15000%;
+      color: #5E35B1;
+    }
+
+    .dark-ripple:active {
+      background-color: gray;
+      opacity: 0.5;
+      background-size: 100%;
+      transition: background 0s;
+      color: #673AB7;
+    }
+
+
+    label.box .choices {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    label.box .circle{
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        margin-right: 15px;
+        border: 2px solid #ddd;
+        display: inline-block;
+    }
+
+    label.wrong{
+        border: 1.5px solid #FC4243;
+        background: #FC4243;
+        color: #ffffff;
+    }
+
+
+    label.box .wrong{
+        color: #ffffff;
+        font-size: 19px;
+        margin-right: 1.05rem;
+        margin-left: .3rem;
+    }
+
+    label.correct{
+        border: 1.5px solid #18DB50;
+        background: #18DB50;
+        color: #ffffff;
+    }
+
+    label.box .correct{
+        color: #ffffff;
+        font-size: 19px;
+        margin-right: 1rem;
+        margin-left: .3rem;
+    }
+
+    input[type="radio"] {
+        display: none;
+    }
+
+    .btn-container{
+        margin-top: 1rem;
+    }
+
+     @media (min-width: 768px) and (max-width: 1299px) { 
+        .card-body{
+          font-size: 18px;
+        }
+
+        .card{
+          margin-left: 1rem;
+          margin-right: 1rem;
+        }
+
+        .btn-container{
+          margin-top: .5rem;
+          margin-left: 1rem;
+          margin-right: 1rem;
+        }
+
+        .panel {
+          display:block;
+          height:188px;
+        }
+
+        .freeBird {
+          margin-top:-200px;
+        }
+
+        .ph-image{
+            height: 200px !important;
+        }
+
+        label.box .circle {
+          height: 17px;
+          width: 17px;
+        }
+
+        div.score{
+          background: #5E35B1;
+          color: #ffffff;
+          height: 45px;
+          width: 105px;
+          font-size: 14px;
+          padding: 5px 5px;
+        }
+      }
+
+      @media (min-width: 1300px) and (max-width: 1999px) { 
+        .card-body{
+          font-size: 18px;
+        }
+
+        .panel {
+          display:block;
+          height:198px;
+        }
+
+        .card{
+          margin-left: 12rem;
+          margin-right: 12rem;
+        }
+
+        .btn-container{
+          margin-top: .9rem;
+          margin-left: 12rem;
+          margin-right: 12rem;
+        }
+
+        .freeBird {
+          margin-top:-210px;
+        }
+
+        .ph-image{
+            height: 250px !important;
+        }
+
+        div.score{
+          background: #5E35B1;
+          color: #ffffff;
+          height: 45px;
+          width: 115px;
+          font-size: 15px;
+          padding: 4px 5px;
+      }
+      }

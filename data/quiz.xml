@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+	<quiz_question>
+		<question>What is the currency used in the Philippines?</question>
+		<choices>
+			<a>a. Dollar</a>
+			<b>b. Peso</b>
+			<c>c. Yen</c>
+		</choices>
+		<answer>b. Peso</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>When did the Philippines gain independence?</question>
+		<choices>
+			<a>a. 1898</a>
+			<b>b. 1946</b>
+			<c>c. 1987</c>
+		</choices>
+		<answer>b. 1946</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Which Filipino tradition uses bamboo sticks and fast paced music to dance to?</question>
+		<choices>
+			<a>a. Orange Justice</a>
+			<b>b. Flamenco</b>
+			<c>c. Tinikling</c>
+		</choices>
+		<answer>c. Tinikling</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the polite Filipino word for Older brother/cousin?</question>
+		<choices>
+			<a>a. Kuya</a>
+			<b>b. Anak</b>
+			<c>c. Tito</c>
+		</choices>
+		<answer>a. Kuya</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>The current president of the Philippines is__________________</question>
+		<choices>
+			<a>a. Barack Obama</a>
+			<b>b. Flordeliza</b>
+			<c>c. Rodrigo Duterte</c>
+		</choices>
+		<answer>c. Rodrigo Duterte</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the capital of the Philippines?</question>
+		<choices>
+			<a>a. Beijing</a>
+			<b>b. Manila</b>
+			<c>c. Neo Tilted</c>
+		</choices>
+		<answer>b. Manila</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the most popular dessert in the Philippines?</question>
+		<choices>
+			<a>a. Halo-halo</a>
+			<b>b. Gulag</b>
+			<c>c. Lumpia</c>
+		</choices>
+		<answer>a. Halo-halo</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Which city is known as the Walled City?</question>
+		<choices>
+			<a>a. Malolos</a>
+			<b>b. Intramuros</b>
+			<c>c. Makati</c>
+		</choices>
+		<answer>b. Intramuros</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Which country occupied the Philippines during World War II?</question>
+		<choices>
+			<a>a. Japan</a>
+			<b>b. China</b>
+			<c>c. America</c>
+		</choices>
+		<answer>a. Japan</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>In what year did the Portuguese explorer Ferdinand Magellan arrive on the shores of the Philippines?</question>
+		<choices>
+			<a>a. 1621</a>
+			<b>b. 1521</b>
+			<c>c. 1823</c>
+		</choices>
+		<answer>b. 1521</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Mayon Volcano is located in which province?</question>
+		<choices>
+			<a>a. Cagayan</a>
+			<b>b. Albay</b>
+			<c>c. Zambales</c>
+		</choices>
+		<answer>b. Albay</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Which is the common street food in Phillippines?</question>
+		<choices>
+			<a>a. Takoyaki</a>
+			<b>b. Balut</b>
+			<c>c. Croquetas</c>
+		</choices>
+		<answer>b. Balut</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the original name of Luneta park?</question>
+		<choices>
+			<a>a. Rizal Park</a>
+			<b>b. Pook Pasyalan</b>
+			<c>c. Bagumbayan</c>
+		</choices>
+		<answer>c. Bagumbayan</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What pen name did Marcelo H del Pilar use in his writings?</question>
+		<choices>
+			<a>a. Plaridel</a>
+			<b>b. Parker</b>
+			<c>c. Mongol</c>
+		</choices>
+		<answer>a. Plaridel</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the residence of the President of the Philippines popularly called?</question>
+		<choices>
+			<a>a. Presidential Palace</a>
+			<b>b. White House</b>
+			<c>c. Malacañang Palace</c>
+		</choices>
+		<answer>c. Malacañang Palace</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Pahiyas is a festival celebrated every May in which town in Quezon province?</question>
+		<choices>
+			<a>a. Luban</a>
+			<b>b. Palawan</b>
+			<c>c. Zamboanga</c>
+		</choices>
+		<answer>a. Luban</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Mt Pinatubo is located in the province of Luzon at the intersection of the borders of the provinces of Zambales, Tarlac, and ______.</question>
+		<choices>
+			<a>a. Nueva Ecija</a>
+			<b>b. Isabela</b>
+			<c>c. Pampanga</c>
+		</choices>
+		<answer>c. Pampanga</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>The Bataan Death March took place in what year?</question>
+		<choices>
+			<a>a. 1942</a>
+			<b>b. 1560</b>
+			<c>c. 1890</c>
+		</choices>
+		<answer>a. 1942</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Who was known as the Hero of Tirad Pass?</question>
+		<choices>
+			<a>a. Andres Bonifacio</a>
+			<b>b. Dr. Jose Rizal</b>
+			<c>c. Gregorio Del Pilar</c>
+		</choices>
+		<answer>c. Gregorio Del Pilar</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Who was the first Filipina to win the Miss International beauty title in 1964?</question>
+		<choices>
+			<a>a. Gloria Diaz</a>
+			<b>b. Gemma Cruz</b>
+			<c>c. Margarita Moran</c>
+		</choices>
+		<answer>b. Gemma Cruz</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>Which Filipino boxer is known for his nickname Pac-Man?</question>
+		<choices>
+			<a>a. Efren Bata Reyes</a>
+			<b>b. Nonito Donaire</b>
+			<c>c. Manny Pacquiao</c>
+		</choices>
+		<answer>c. Manny Pacquiao</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What is the meaning of the acronym NAMFREL?</question>
+		<choices>
+			<a>a. National Movement Free Relocations</a>
+			<b>b. National Citizens' Movement for Free Elections</b>
+			<c>c. National Forum for Research in Arbitration Law</c>
+		</choices>
+		<answer>b. National Citizens' Movement for Free Elections</answer>
+	</quiz_question>
+
+	<quiz_question>
+		<question>What are the provinces that consist of the acronym CALABARZON?</question>
+		<choices>
+			<a>a. Capiz, Langob, Bohol, Rosario, Quirhat</a>
+			<b>b. Cavite, Laguna, Batangas, Rizal, Quezon</b>
+			<c>c. Cagayan, Landusan, Baguio, Romblon, Quinaguitman</c>
+		</choices>
+		<answer>b. Cavite, Laguna, Batangas, Rizal, Quezon</answer>
+	</quiz_question>
+
+</quiz>
